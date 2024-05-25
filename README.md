@@ -11,7 +11,7 @@ I am a passionate frontend developer, driven by a curiosity for technology. My j
 - 🔭 I am currently pursuing my Associate's degree in Software Engineering from KKNAU.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,figma,photoshop,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,tailwind,figma,photoshop,git,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
