@@ -2,8 +2,6 @@
 
 I am a passionate frontend developer, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Lackevil&theme=react&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🧑 I am eighteen years old and I live in the city of Krivoy Rog.
