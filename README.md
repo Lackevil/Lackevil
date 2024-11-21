@@ -13,7 +13,7 @@ I am a passionate frontend developer, driven by a curiosity for technology. My j
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Fronedend Development
+- 🚀 Learning Frontend Development
 
 ## 📬 Get in Touch
 
