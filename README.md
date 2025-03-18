@@ -18,4 +18,4 @@ I am a passionate frontend developer, driven by a curiosity for technology. My j
 ## 📬 Get in Touch
 
 - Connect with me on [Instagram](https://www.instagram.com/lackkevil/), [Telegram](https://t.me/lackevil)
-- Portfolio: [Nazar Pasechnyi](https://lackevil.github.io/My-portfolio/)
+- Portfolio: [Nazar Pasechnyi](https://lackevil.github.io/Portfolio/)
