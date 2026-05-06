@@ -31,4 +31,3 @@ const nazar = {
 - 💼 LinkedIn — [nazar-pasechnyi](https://www.linkedin.com/in/nazar-pasechnyi-a576ab376/)
 - 🏆 FrontendMentor — [Lackevil](https://www.frontendmentor.io/profile/Lackevil)
 
----
