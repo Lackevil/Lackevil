@@ -27,7 +27,6 @@ const nazar = {
 
 ### Links
 
-- 🌐 Portfolio — [lackevil.github.io/Portfolio](https://lackevil.github.io/Portfolio/)
 - 💼 LinkedIn — [nazar-pasechnyi](https://www.linkedin.com/in/nazar-pasechnyi-a576ab376/)
 - 🏆 FrontendMentor — [Lackevil](https://www.frontendmentor.io/profile/Lackevil)
 
